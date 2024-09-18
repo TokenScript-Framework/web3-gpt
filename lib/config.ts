@@ -67,7 +67,7 @@ export const AGENTS_ARRAY: Agent[] = [
     imageUrl: "/assets/agent-factory.png"
   },
   {
-    id: "asst_13kX3wWTUa7Gz9jvFOqnnA77",
+    id: "asst_fns5bh6XGZ8SHcmI60syHuHh",
     userId: "12689544",
     name: "Smart Token",
     description: "Create a Smart Token - create and self deploy a token, then power it with a TokenScript",
